@@ -131,3 +131,5 @@ dmypy.json
 #CSV
 *.csv
 
+#jupyter checkpoints
+*.checkpoint.ipynb
